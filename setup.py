@@ -27,7 +27,7 @@ setup(
         "six",
     ],
     tests_require=[
-        'pytest>=4.3.0', 
+        'pytest>=4.6.11', 
         'pytest-cov',
         'pytest-runner'
     ],
